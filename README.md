@@ -1,2 +1,2 @@
 # Programarea-Dinamica
-Proiectil din luna august pemtru programul Tekwill in fiecare scoala
+Proiectul din luna august pemtru programul Tekwill in fiecare scoala
